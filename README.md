@@ -1,5 +1,6 @@
 ## Hi, my name KONSTANTIN 👋
-I am a novice programmer living in the ⭐Arctic Circle❄️.
+I am a novice programmer living in the 
+⭐Arctic Circle❄️.
 ## My technolages 🔧
 | HTML | CSS | JAVASCRIPT | C++ | C# |
 <!--
