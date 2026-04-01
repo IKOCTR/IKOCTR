@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi, my name KONSTANTIN👋
+I am a novice programmer living in the Arctic Circle.
+## My technolages
+| HTML | CSS | JAVASCRIPT | C++ | C# |
 <!--
 **IKOCTR/IKOCTR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
