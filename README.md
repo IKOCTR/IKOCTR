@@ -2,7 +2,7 @@
 I am a novice programmer living in the 
 ⭐Arctic Circle❄️.
 ## My technolages 🔧
-<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/1a00ab46-a64d-4085-8157-055507405c27" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/1a00ab46-a64d-4085-8157-055507405c27" />
 
 <!--
 **IKOCTR/IKOCTR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
