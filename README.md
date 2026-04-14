@@ -2,7 +2,10 @@
 I am a novice programmer living in the 
 ⭐Arctic Circle❄️.
 ## My technolages 🔧
-<img width="242" height="208" alt="image" src="https://github.com/user-attachments/assets/2f26ae85-f3eb-428b-a9b3-f5f040a24a95" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/83766578-e059-4254-a1d5-12db3fa7ae46" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/5f4073c4-c385-48a5-9f5a-6baf285da8f7" />
+
+
 
 
 <!--
