@@ -5,7 +5,8 @@ I am a novice programmer living in the
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/83766578-e059-4254-a1d5-12db3fa7ae46" />
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/cd05a95f-7af7-47b5-bf03-2a827e36925c" />
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/014a3398-3704-4e73-815e-c2c58768d65e" />
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/3cc2ca3a-5b33-4fef-8929-6284dbdecafa" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/83e7c1ae-9406-43a0-b7c8-153d4a4ef328" />
+
 
 
 
