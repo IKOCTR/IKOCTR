@@ -1,4 +1,5 @@
 <h1 align="center"> Hi, my name KONSTANTIN 👋</h1>
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/7fafa9ec-3258-42f8-a049-19b72bd90823" />
 <div>
   <p>I am a novice programmer living in the ⭐Arctic Circle❄️.  </p>
   <p>I'm currently learning C++ and C#</p>
