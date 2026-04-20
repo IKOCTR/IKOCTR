@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, my name KONSTANTIN 👋</h1>
-<img width="200" height="200" alt="image" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazA2MzZiYWpwbTRpcTFtYnk5eDF4NXRrNWE4dzBmbmhqc2tyYmRyOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SVrgJrUTp0z9fFtA9B/giphy.gif" />
-<div>
+<div align="center">
+  <img width="200" height="200" alt="image" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazA2MzZiYWpwbTRpcTFtYnk5eDF4NXRrNWE4dzBmbmhqc2tyYmRyOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SVrgJrUTp0z9fFtA9B/giphy.gif" />
   <p>I am a novice programmer living in the ⭐Arctic Circle❄️.  </p>
   <p>I'm currently learning C++ and C#</p>
 </div>
@@ -16,11 +16,11 @@ ___
 </div>
 
 ___
-##My stats:
+## My stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IKOCTR&show_icons=true)
 
 ___
-##📫 Контакты: 
+## 📫 Контакты: 
 https://vk.com/ikoctr27
 
 
