@@ -1,17 +1,19 @@
 <h1 align="center"> Hi, my name KONSTANTIN 👋</h1>
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/7fafa9ec-3258-42f8-a049-19b72bd90823" />
+<img width="200" height="200" alt="image" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazA2MzZiYWpwbTRpcTFtYnk5eDF4NXRrNWE4dzBmbmhqc2tyYmRyOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SVrgJrUTp0z9fFtA9B/giphy.gif" />
 <div>
   <p>I am a novice programmer living in the ⭐Arctic Circle❄️.  </p>
   <p>I'm currently learning C++ and C#</p>
 </div>
 
-
+___
 
 ## My technolages 🔧
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/83766578-e059-4254-a1d5-12db3fa7ae46" />
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/cd05a95f-7af7-47b5-bf03-2a827e36925c" />
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/014a3398-3704-4e73-815e-c2c58768d65e" />
-<img width="80" height="100" alt="image" src="https://github.com/user-attachments/assets/83e7c1ae-9406-43a0-b7c8-153d4a4ef328" />
+<div align="center">
+  <img width="15%" height="100" alt="image" src="https://github.com/user-attachments/assets/83766578-e059-4254-a1d5-12db3fa7ae46" />
+  <img width="15%" height="100" alt="image" src="https://github.com/user-attachments/assets/cd05a95f-7af7-47b5-bf03-2a827e36925c" />
+  <img width="15%" height="100" alt="image" src="https://github.com/user-attachments/assets/014a3398-3704-4e73-815e-c2c58768d65e" />
+  <img width="10%" height="100" alt="image" src="https://github.com/user-attachments/assets/83e7c1ae-9406-43a0-b7c8-153d4a4ef328" />
+</div>
 
 
 
