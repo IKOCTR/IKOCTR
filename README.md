@@ -15,9 +15,13 @@ ___
   <img width="10%" height="100" alt="image" src="https://github.com/user-attachments/assets/83e7c1ae-9406-43a0-b7c8-153d4a4ef328" />
 </div>
 
+___
+##My stats:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=IKOCTR&show_icons=true)
 
-
-
+___
+##📫 Контакты: 
+https://vk.com/ikoctr27
 
 
 
